@@ -1,1 +1,4 @@
-# This is a repo for our new GCP DevOps project
+# Docker falsk application
+
+  - This application is qwritten in python
+  - It shall be deployed on GKE
